@@ -14,7 +14,7 @@
 
 ## 💻 Tech Stack
 
-<div align="center">
+<div align="left">
 
 ### Frontend
 
@@ -30,7 +30,6 @@
 <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" title="Django" style="margin: 12px;"/>
 <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python" style="margin: 12px;"/>
 
-
 ### Database
 
 <img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" style="margin: 12px;"/>
@@ -41,24 +40,27 @@
 <img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" title="Postman" style="margin: 12px;"/>
 <img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" title="Docker" style="margin: 12px;"/>
 
-</div>
-
 <br>
 <br>
+<hr>
 
 <div align="center">
 
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eslamamro&theme=aura)](https://github.com/Eslamamro)
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eslamamro&theme=aura&utcOffset=8)](https://github.com/Eslamamro)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=aura)](https://github.com/your-github-username)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-github-username&theme=aura&utcOffset=8)](https://github.com/your-github-username)
+
+</div>
+
+</div>
 
 <br>
 
-<a href="https://github.com/Eslamamro" target="_blank">
-<img src="https://img.shields.io/github/followers/Eslamamro?style=social&logo=github&label=Follow" alt="GitHub Followers"/>
-</a>
+<div align="center">
+  
 <a href="https://github.com/your-github-username" target="_blank">
-<img src="https://komarev.com/ghpvc/?username=Eslamamro&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/your-github-username?style=social&logo=github&label=Follow" alt="GitHub Followers"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views"/>
 
 </div>
 
