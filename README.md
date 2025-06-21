@@ -5,9 +5,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/islam-amrr)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamamr2003@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-username](https://www.instagram.com/islam.29.r?igsh=cm1qeGZ6ZDl2NXNw&utm_source=qr))
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/islam.29.r?igsh=cm1qeGZ6ZDl2NXNw&utm_source=qr)
 
 </div>
 
