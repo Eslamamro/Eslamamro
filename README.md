@@ -46,8 +46,8 @@
 
 <div align="center">
 
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=your-github-username&theme=aura)](https://github.com/your-github-username)
-[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=your-github-username&theme=aura&utcOffset=8)](https://github.com/your-github-username)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eslamamro&theme=aura)](https://github.com/Eslamamro)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eslamamro&theme=aura&utcOffset=8)](https://github.com/Eslamamro)
 
 </div>
 
@@ -57,21 +57,9 @@
 
 <div align="center">
   
-<a href="https://github.com/your-github-username" target="_blank">
-<img src="https://img.shields.io/github/followers/your-github-username?style=social&logo=github&label=Follow" alt="GitHub Followers"/>
+<a href="https://github.com/Eslamamro" target="_blank">
+<img src="https://img.shields.io/github/followers/Eslamamro?style=social&logo=github&label=Follow" alt="GitHub Followers"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Eslamamro&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views"/>
 
 </div>
-
-<!-- 
-To customize this README:
-1. Replace [Your Name] with your actual name
-2. Replace all "your-username" placeholders with your actual social media usernames
-3. Replace "your-github-username" with your actual GitHub username
-4. Replace "your-email@gmail.com" with your actual email
-5. Update the "About Me" section with your personal information
-6. Add or remove technologies based on what you actually use
-7. Update the current projects section with your actual projects
-8. Add any additional sections that represent you
---> 
