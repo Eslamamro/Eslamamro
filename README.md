@@ -1,125 +1,66 @@
-# Hi there, I'm [Your Name] 👋
-
-## 🚀 About Me
-I'm a passionate **Full Stack Developer** who loves creating innovative web applications and solving complex problems. I enjoy working with modern technologies and am always eager to learn new skills and take on challenging projects.
-
-- 🔭 I'm currently working on **Dashboard Applications** and **Web Development Projects**
-- 🌱 I'm currently learning **Advanced React Patterns** and **Django REST Framework**
-- 👯 I'm looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **React, Django, TypeScript, and Full Stack Development**
-- ⚡ Fun fact: **[Add something interesting about yourself]**
-
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-username)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-username)
+
+<div align="center">
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
+[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:islamamr2003@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/your-username](https://www.instagram.com/islam.29.r?igsh=cm1qeGZ6ZDl2NXNw&utm_source=qr))
+
+</div>
 
 ## 💻 Tech Stack
 
 <div align="center">
 
-### 🎨 Frontend
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" />
-<br><strong>React</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
-<br><strong>TypeScript</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
-<br><strong>JavaScript</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
-<br><strong>HTML5</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
-<br><strong>CSS3</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="48" height="48" alt="Tailwind CSS" />
-<br><strong>Tailwind</strong>
-</td>
-</tr>
-</table>
+### Frontend
 
-### ⚡ Backend
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
-<br><strong>Django</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
-<br><strong>Python</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
-<br><strong>Node.js</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
-<br><strong>Express.js</strong>
-</td>
-</tr>
-</table>
+<img src="https://skillicons.dev/icons?i=react" width="50" height="50" alt="React" title="React" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=ts" width="50" height="50" alt="TypeScript" title="TypeScript" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=js" width="50" height="50" alt="JavaScript" title="JavaScript" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" title="HTML5" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" title="CSS3" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind CSS" title="Tailwind CSS" style="margin: 12px;"/>
 
-### 🗄️ Database
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
-<br><strong>PostgreSQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
-<br><strong>MySQL</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-<br><strong>SQLite</strong>
-</td>
-</tr>
-</table>
+### Backend
+
+<img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django" title="Django" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python" title="Python" style="margin: 12px;"/>
+
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=postgres" width="50" height="50" alt="PostgreSQL" title="PostgreSQL" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL" title="MySQL" style="margin: 12px;"/>
 
 ### 🛠️ Tools & Technologies
-<table>
-<tr>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" />
-<br><strong>Git</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-<br><strong>GitHub</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" />
-<br><strong>VS Code</strong>
-</td>
-<td align="center" width="100">
-<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
-<br><strong>Postman</strong>
-</td>
-<td align="center" width="100">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
-<br><strong>Docker</strong>
-</td>
-</tr>
-</table>
+
+<img src="https://skillicons.dev/icons?i=postman" width="50" height="50" alt="Postman" title="Postman" style="margin: 12px;"/>
+<img src="https://skillicons.dev/icons?i=docker" width="50" height="50" alt="Docker" title="Docker" style="margin: 12px;"/>
 
 </div>
 
----
-⭐️ From [your-github-username](https://github.com/your-github-username)
+<br>
+<br>
+
+<div align="center">
+
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eslamamro&theme=aura)](https://github.com/Eslamamro)
+[![Productive Time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Eslamamro&theme=aura&utcOffset=8)](https://github.com/Eslamamro)
+
+<br>
+
+<a href="https://github.com/Eslamamro" target="_blank">
+<img src="https://img.shields.io/github/followers/Eslamamro?style=social&logo=github&label=Follow" alt="GitHub Followers"/>
+</a>
+<a href="https://github.com/your-github-username" target="_blank">
+<img src="https://komarev.com/ghpvc/?username=Eslamamro&style=flat-square&color=39d353&label=Profile+Views" alt="Profile Views"/>
+</a>
+
+</div>
 
 <!-- 
 To customize this README:
